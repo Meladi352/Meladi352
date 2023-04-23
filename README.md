@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<div id="header" align="start">
-  <img src="[https://media4.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47l27vsn7hyv16z9vnjkb2zewqdvydl96vv5becv46&rid=giphy.gif&ct=g" width="200](https://i.gifer.com/2GU.gif)"/>
-</div>
+<div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/2GU" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">через GIFER</a></p>
 
 
 👽I'm Kseniia and I'm a Frontend developer from Finland.
