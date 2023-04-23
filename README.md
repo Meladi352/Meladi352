@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/2GU" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">через GIFER</a></p>
+<div id="header" align="start">
+  <iframe src="https://giphy.com/embed/3oriO0o3mjqifL7wK4" width="480" height="266" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/producthunt-cat-computer-3oriO0o3mjqifL7wK4">via GIPHY</a></p>
+</div>
 
 
 👽I'm Kseniia and I'm a Frontend developer from Finland.
