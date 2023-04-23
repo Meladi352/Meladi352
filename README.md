@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="start">
-  <iframe src="https://giphy.com/embed/3oriO0o3mjqifL7wK4" width="480" height="266" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/producthunt-cat-computer-3oriO0o3mjqifL7wK4">via GIPHY</a></p>
+  <img src="https://giphy.com/embed/3oriO0o3mjqifL7wK4" width="200"/>
 </div>
 
 
